@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+.nav-bar a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: 646cffaa;
+}
